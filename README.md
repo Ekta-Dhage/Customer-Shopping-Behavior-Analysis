@@ -38,10 +38,10 @@ and product preferences to support business decision-making.
 - Use data-driven strategies for inventory and marketing
 
 ## Project Files
-- Python Notebook: notebooks/
-- SQL Queries: sql/
-- Power BI Dashboard: powerbi/
-- PDF & PPT Report: reports/
+- Python Notebook: notebooks
+- SQL Queries: sql
+- Power BI Dashboard: powerbi
+- PDF & PPT Report: reports
 
 ## Author
 Ekta Dhage  
